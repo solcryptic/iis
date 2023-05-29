@@ -1,0 +1,137 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Service",
+      "href": "Service"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "mainHero": {
+    "title": "Iphone ",
+    "subtitle": "Inspection Service.",
+    "description": " Experience professional iPhone inspections that optimize performance. Our certified technicians use advanced technology to thoroughly examine your device, diagnose issues, and provide accurate recommendations. Trust us to unlock the true potential of your iPhone. Elevate your iPhone care today.",
+    "img": "/assets/images/iis.jpeg",
+    "primaryAction": {
+      "text": "Schedule Inspection",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Call us",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "Our Services",
+    "items": [
+      {
+        "title": "Comprehensive iPhone Diagnostic Reports",
+        "description": "Our iPhone inspection service provides you with comprehensive diagnostic reports, giving you a detailed overview of your device's health and performance. Our experienced technicians carefully analyze every aspect of your iPhone, including hardware, software, battery health, and more. With our detailed reports, you'll have a clear understanding of any issues or potential problems, enabling you to make informed decisions about repairs or upgrades. Trust our experts to provide you with accurate and reliable diagnostic information for your iPhone.",
+        "img": "/assets/images/iis2.jpg"
+      },
+      {
+        "title": "Fast and Reliable iPhone Inspection",
+        "description": " We understand that time is of the essence when it comes to your iPhone. That's why our inspection service is designed to be fast and efficient, without compromising on quality. Our team of skilled technicians works diligently to inspect your device promptly, ensuring a quick turnaround time. Whether you need a routine check-up or have encountered a specific problem, our experts will identify the issue swiftly and provide you with the necessary recommendations. Experience our reliable iPhone inspection service that saves you time and keeps your device running smoothly.",
+        "img": "/assets/images/iis3.jpeg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "All the best technologies out there!",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "items": [
+      {
+        "name": "React.js",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Tailwind",
+        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Next.js",
+        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Typescript",
+        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Iphone X",
+        "price": "400",
+        "priceDetails": "pkr"
+      },
+      {
+        "name": "Iphone 11",
+        "price": "650",
+        "priceDetails": "pkr"
+      },
+      {
+        "name": "Iphone 12",
+        "price": "750",
+        "priceDetails": "pkr"
+      },
+      {
+        "name": "Iphone 13",
+        "price": "850",
+        "priceDetails": "pkr"
+      },
+      {
+        "name": "Iphone 14",
+        "price": "900",
+        "priceDetails": " pkr"
+      }
+      
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://instagram.com/iis_iphone",
+      "twitter": "https://facebook.com/iis_iphone",
+      "linkedin":"https://facebook.com/iis_iphone"
+    }
+  }
+}
