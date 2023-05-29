@@ -7,7 +7,7 @@ import { Link } from 'react-scroll';
 import config from '../config/index.json';
 
 const Menu = () => {
-  const { navigation, company,} = config;
+  const { navigation, company} = config;
   const { name: companyName, logo } = company;
 
   return (
@@ -33,8 +33,7 @@ const Menu = () => {
                 <a href="#">
                   <span className="sr-only">{companyName}</span>
                   {/* <img alt="logo" className="h-16 w-auto sm:h-16"  /> */}
-                  <p className="h-16 w-auto sm:h-16 text-lg text-bold"   >IIS</p>
-                  
+                  <p className="h-16 w-auto sm:h-16 text-lg text-bold">IIS</p>    
                 </a>
                 <div className="-mr-2 flex items-center md:hidden">
                   <Popover.Button
@@ -114,7 +113,6 @@ const Menu = () => {
                   </Link>
                 ))}
               </div>
-             
             </div>
           </Popover.Panel>
         </Transition>

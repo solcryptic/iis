@@ -210,7 +210,6 @@ const Pricing = () => {
               </div>
             </div>
           </div>
-          
           <div
             className={`flex flex-col w-5/6 lg:w-1/4 mx-auto lg:mx-0 rounded-none lg:rounded-l-lg bg-primary mt-4`}
           >
@@ -242,7 +241,6 @@ const Pricing = () => {
               </div>
             </div>
           </div>
-
         </div>
       </div>
     </section>
