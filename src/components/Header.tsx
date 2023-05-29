@@ -7,7 +7,7 @@ import { Link } from 'react-scroll';
 import config from '../config/index.json';
 
 const Menu = () => {
-  const { navigation, company} = config;
+  const { navigation, company } = config;
   const { name: companyName, logo } = company;
 
   return (
@@ -32,7 +32,6 @@ const Menu = () => {
               <div className="flex items-center justify-between w-full md:w-auto">
                 <a href="#">
                   <span className="sr-only">{companyName}</span>
-                  {/* <img alt="logo" className="h-16 w-auto sm:h-16"  /> */}
                   <p className="h-16 w-auto sm:h-16 text-lg text-bold">IIS</p>    
                 </a>
                 <div className="-mr-2 flex items-center md:hidden">
