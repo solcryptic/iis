@@ -3,9 +3,9 @@ import React from 'react';
 import config from '../config/index.json';
 
 const About = () => {
-  const { company, about } = config;
+  const {  about } = config;
   // const { logo, name: companyName } = company;
-  const { socialMedia, sections } = about;
+  const { socialMedia } = about;
 
   return (
     <div
